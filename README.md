@@ -24,7 +24,7 @@ Following are the features applied on mixtape.json
 
 ## Go to the project folder and execute the following command in terminal ##
 
-> mvn exec:java -Dexec.mainClass="./target.classes.MixTapeManager" -Dexec.args="./src/main/resources/mixtape.json -c ./src/main/resources/changes.json ./src/main/resources/output.json"
+> mvn exec:java -Dexec.mainClass="./target.classes.main" -Dexec.args="./src/main/resources/mixtape.json -c ./src/main/resources/changes.json ./src/main/resources/output.json"
 
 # Scaling #
 
