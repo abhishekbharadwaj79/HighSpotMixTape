@@ -1,0 +1,21 @@
+[
+  {
+  "action" : "add_playlist",
+  "playlist" : {
+      "id": "164",
+      "user_id": "2",
+      "song_ids": [
+        "3"
+      ]
+    }
+  },
+  {
+    "action" : "remove_playlist",
+    "playlist_id" : "1"
+  },
+  {
+    "action" : "add_song_to_playlist",
+    "playlist_id": "2",
+    "song_id": "5"
+  }
+]
