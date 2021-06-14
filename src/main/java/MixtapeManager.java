@@ -4,7 +4,7 @@ import action.IAction;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import model.MixTape;
 
-public class Main {
+public class MixtapeManager {
 
     public static void main(String[] args) {
 
